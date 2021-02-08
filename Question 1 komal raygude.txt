@@ -1,0 +1,10 @@
+def count_chars(txt):
+	result = 0
+	for char in txt:
+		result += 1    
+	return result
+count_chars(input("enter a string'))
+if result==2:
+	print(txt.replace('z')
+if result>2:
+	print(txt.replace('x')
